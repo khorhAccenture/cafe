@@ -2,9 +2,7 @@ header {
     font-size: 64px;
     text-align: center;
 }
-body {
-    font-size: 30px;
-    text-align: left;  
+ul {
+    list-style: none;
+    font-size: 35px;
 }
-ul {list-style: none;}
-
