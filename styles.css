@@ -2,3 +2,7 @@ header {
     font-size: 64px;
     text-align: center;
 }
+ul {
+    list-style: none;
+    font-size: 35px;
+}
