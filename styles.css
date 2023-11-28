@@ -22,3 +22,8 @@ ul {
     align-items: center;
     margin: 20px;
   }
+
+img {
+    width: 300px;
+    vertical-align: middle;
+}
