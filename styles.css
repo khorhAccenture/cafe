@@ -5,4 +5,9 @@ header {
 ul {
     list-style: none;
     font-size: 35px;
+    text-align: left;
+}
+img {
+    width: 300px;
+    vertical-align: middle;
 }
